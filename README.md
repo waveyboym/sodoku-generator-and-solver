@@ -1,4 +1,4 @@
-# sodoku-generator-and-solver
+# sudoku-generator-and-solver
 
 can generate a new sodoku puzzle and solve it. The number of open spots can also be changed in the main files for both the C++ and Java version.
 the code may only be compiled and run in a linux environment
