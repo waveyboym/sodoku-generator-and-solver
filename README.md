@@ -1,7 +1,21 @@
 # sudoku-generator-and-solver
 
-can generate a new sodoku puzzle and solve it. The number of open spots can also be changed in the main files for both the C++ and Java version.
+can generate a new sudoku puzzle and solve it. The number of open spots can also be changed in the main files for both the C++ and Java version.
 the code may only be compiled and run in a linux environment
+
+#if you dont want to compile on your device and want a quick run click here:
+1. java: https://onlinegdb.com/dUfQ4y-Vv
+2. c++ : 
+
+#to run this code you will need to install: 
+make: https://linuxhint.com/install-make-ubuntu/
+valgrind: https://wiki.ubuntu.com/Valgrind
+gcc: https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
+zip(optional): https://speedysense.com/zip-and-unzip-command-in-ubuntu-terminal/
+unzip(optional): https://speedysense.com/zip-and-unzip-command-in-ubuntu-terminal/
+gdb: http://www.gdbtutorial.com/tutorial/how-install-gdb
+jre: https://ubuntu.com/tutorials/install-jre#1-overview
+
 
 #to run the code:
 
