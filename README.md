@@ -4,8 +4,8 @@ can generate a new sudoku puzzle and solve it. The number of open spots can also
 the code may only be compiled and run in a linux environment
 
 #if you dont want to compile on your device and want a quick run click here:
-1. java: https://onlinegdb.com/dUfQ4y-Vv
-2. c++ : 
+1. java: https://onlinegdb.com/2zbOA9wfL
+2. c++ : https://onlinegdb.com/MZjAj-l8b
 
 #to run this code you will need to install: 
 1. make: https://linuxhint.com/install-make-ubuntu/
